@@ -1,4 +1,4 @@
-const langs = {
+const languages = {
     'auto': 'Automatic',
     'af': 'Afrikaans',
     'sq': 'Albanian',
