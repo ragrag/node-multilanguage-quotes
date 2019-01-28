@@ -1,0 +1,15 @@
+{
+  "name": "node-multilanguage-quotes",
+  "version": "1.0.0",
+  "description": "Get a random quote and translate it using any language",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raggi",
+  "license": "MIT",
+  "dependencies": {
+    "@k3rn31p4nic/google-translate-api": "^1.0.5",
+    "node-fetch": "^2.3.0"
+  }
+}
