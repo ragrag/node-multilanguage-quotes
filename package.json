@@ -8,6 +8,8 @@
   },
   "author": "Raggi",
   "license": "MIT",
+  "homepage": "https://github.com/owner/project#readme",
+  "keywords" :["Quotes","Random","Multilanguage"],
   "dependencies": {
     "@k3rn31p4nic/google-translate-api": "^1.0.5",
     "node-fetch": "^2.3.0"
