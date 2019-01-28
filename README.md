@@ -17,17 +17,15 @@ The language in which the quote is translated must be one of the codes/names con
 ## Getting started
 
 
-To use it in `node.js` first install it:
+To use it in `node.js` first install by:
 
 ```bash
 npm install node-multilanguage-quotes --save
 ```
 
-Then import it to use it:
+Then import it:
 
 ```js
 const getQuote = require('node-multilanguage-quotes');
 ```
-
-To use it in the browser download the main `translate.min.js` file and include it:
 
