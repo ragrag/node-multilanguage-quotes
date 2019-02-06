@@ -1,0 +1,26 @@
+{
+  "name": "node-quran-async",
+  "version": "1.0.0",
+  "description": "An asynchronous Holy Quran module to retreive Quran data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ragrag.github.com"
+  },
+  "keywords": [
+    "Quran",
+    "Holy",
+    "Ayat",
+    "Surah",
+    "Juz",
+    "Tafsir"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-request": "^1.8.2"
+  }
+}
